@@ -1,0 +1,4 @@
+https://en.ovcharov.me/2019/08/16/ch340g-programmer-for-esp8266-esp32/
+https://github.com/ReclaimerLabs/USB-PD-Breakout
+https://hackaday.io/project/20424-pd-buddy-sink
+https://hackaday.io/project/176680-pd-micro-usb-c-pd30-pps-trigger
